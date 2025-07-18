@@ -2,7 +2,7 @@
 
 🎓 Fresh graduate Software Engineer from Üsküdar University
 💻 Focused on **C#**, **ASP.NET**, and backend development for scalable web applications  
-🧩 Beginner in **JavaScript**, **React**, and **Next.js** — always eager to expand my frontend skills!  
+🧩 Beginner in **JavaScript**, **React**, and **Next.js** always eager to expand my frontend skills!  
 🔍 Passionate about clean code, problem solving, and continuous learning
 
 ## 🛠️ Skills
